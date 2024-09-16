@@ -7,6 +7,4 @@ Algoritmo Calculadora
 	Leer num2;
 	
 	Escribir "El resultado de la suma es: ", num1 + num2;
-
-	
 FinAlgoritmo
